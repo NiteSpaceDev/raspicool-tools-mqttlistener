@@ -1,0 +1,23 @@
+{
+  "name": "raspicool-tools-mqttlistener",
+  "version": "1.0.0",
+  "description": "Basic mqtt listener for debug purposes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NiteSpaceDev/raspicool-tools-mqttlistener.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NiteSpaceDev/raspicool-tools-mqttlistener/issues"
+  },
+  "homepage": "https://github.com/NiteSpaceDev/raspicool-tools-mqttlistener#readme",
+  "dependencies": {
+    "aws-mqtt": "^0.2.2",
+    "aws-sdk": "^2.253.1"
+  }
+}
