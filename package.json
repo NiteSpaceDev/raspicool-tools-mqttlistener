@@ -19,6 +19,7 @@
   "homepage": "https://github.com/NiteSpaceDev/raspicool-tools-mqttlistener#readme",
   "dependencies": {
     "aws-mqtt": "^0.2.2",
-    "aws-sdk": "^2.253.1"
+    "aws-sdk": "^2.253.1",
+    "pg": "^7.4.3"
   }
 }
